@@ -1,0 +1,64 @@
+{
+    "Stanza": {
+        "distance": 2.5,
+        "category": "Girls",
+        "floors": {
+            "Floor 1": {
+                "Room 1": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": [
+                        {
+                            "id": "1602-23-737-135",
+                            "name": "Badrinath"
+                        }
+                    ]
+                },
+                "Room 2": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": []
+                },
+                "Room 3": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": []
+                }
+            },
+            "Floor 2": {
+                "Room 1": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": []
+                },
+                "Room 2": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": []
+                },
+                "Room 3": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": []
+                }
+            },
+            "Floor 3": {
+                "Room 1": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": []
+                },
+                "Room 2": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": []
+                },
+                "Room 3": {
+                    "status": "available",
+                    "capacity": 4,
+                    "occupants": []
+                }
+            }
+        }
+    }
+}
